@@ -1,0 +1,24 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and general styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f2f3fb;
+  line-height: 1.6;
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header styles */
+header {
+  background: linear-gradient(to right, #ffafbd, #ffc3a0);
